@@ -9,7 +9,7 @@ This project involves deploying a static website to an AWS EC2 instance using NG
 - **Static Website**: HTML, CSS, and JavaScript files containing the following details:
   - **Name**: Kudirat Zubair
   - **Username**: ameerah
-  - **Email**: [kudiratjimohzubair@gmail.com](mailto:kudiratjimohzubair@gmail.com)
+  - **Email**: [kudirat**********@gmail.com](mailto:kudirat************@gmail.com)
 
 ## Prerequisites
 
